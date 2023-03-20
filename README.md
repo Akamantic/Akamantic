@@ -4,7 +4,7 @@
     
 <img align="right" height="160" src="https://github-stats.liuli.lol/api?username=xlzy520&show_icons=true&icon_color=fb7299&text_color=fb7299&bg_color=ffffff&hide_title=true" />
 
-<img align="right" height="160" src="https://count.getloli.com/get/@xlzy520" alt="xlzy520" />
+<img align="right" height="160" src="https://count.getloli.com/get/@xlzy520" alt="Akamantic" />
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xlzy520&" alt="xlzy520" /></p>
 
 <div>
