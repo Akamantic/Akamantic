@@ -1,4 +1,4 @@
-### こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！！☆*: .｡. o(≧▽≦)o .｡.:*☆😘💕💕😍
+### こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！！☆*: .｡. o(≧▽≦)o .｡.:*☆💕💕
 <!-- <h1 align="center" > <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=こんにちは！はじめまして!;&center=true&size=25"> </a> </h1> -->
 <div>
     
