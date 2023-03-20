@@ -1,4 +1,5 @@
-### Hi👋 I am xlzy520(执笔看墨花开）
+### こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！！☆*: .｡. o(≧▽≦)o .｡.:*☆😘💕💕😍
+<!-- <h1 align="center" > <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=こんにちは！はじめまして!;&center=true&size=25"> </a> </h1> -->
 <div>
     
 <img align="right" height="160" src="https://github-stats.liuli.lol/api?username=xlzy520&show_icons=true&icon_color=fb7299&text_color=fb7299&bg_color=ffffff&hide_title=true" />
@@ -22,6 +23,12 @@
 - 💸 资深白嫖用户，善于利用各种技术进行白嫖
 - ✈️ 性能优化强迫症患者，慢是不可以忍受的啊
 - 🏫 HDU 软件工程
+- 😘 喜欢利用各种技术解决自己或他人的问题
+- 😍 资深白嫖用户，善于利用各种技术进行白嫖
+- 😊 性能优化强迫症患者，慢是不可以忍受的啊  ダメだ！
+- 🥰 进击的巨人、火影忍者、鬼灭之刃
+- 👻 NBA、FIFA、Lebron James、Messi
+- 🤩バスケットボール、スキール
   
   </div>
 
