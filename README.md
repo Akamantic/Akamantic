@@ -14,20 +14,19 @@
 </div>
     
 ---
-- :orange_book:  React、Vue(2+3)、小程序、浏览器插件、Java、Node...
-- :ram:  涉猎广泛，热爱开源，喜欢折腾，喜欢分享
-- :hammer:  学习一些底层，补一些算法
-- 🌄 喜欢利用各种技术解决自己或他人的问题
-- 💸 资深白嫖用户，善于利用各种技术进行白嫖
-- ✈️ 性能优化强迫症患者，慢是不可以忍受的啊
-- 🏫 HDU 软件工程
-- 😘 喜欢利用各种技术解决自己或他人的问题
+- 🎉 React、Vue(2+3)、javaScript、Java、Node...
+- 👹 涉猎广泛，热爱开源，喜欢折腾，喜欢分享
+- 😳 ビール、ウイスキー
+- 👾 さまざまな技術を利用して問題を解決するのが好きです
+- 💥 ルフィ、ミカサ、カネキ・ケン
+- 👻 プレイステーション5、任天堂、ゼルダが好き 
+<!-- - 😘 喜欢利用各种技术解决自己或他人的问题
 - 😍 资深白嫖用户，善于利用各种技术进行白嫖
-- 😊 性能优化强迫症患者，慢是不可以忍受的啊  ダメだ！
+- 😊 性能优化强迫症患者，慢是不可以忍受的啊  ダメだ！ -->
 - 🥰 进击的巨人、火影忍者、鬼灭之刃
 - 👻 NBA、FIFA、Lebron James、Messi
 - 🤩バスケットボール、スキール
-    
+  <img aligin="left" src="https://img.shields.io/badge/Bilibili%20fans-256-%23fb7299" />
   </div>
   
 ![](https://raw.githubusercontent.com/xlzy520/xlzy520/main/assets/github-contribution-grid-snake.svg)
