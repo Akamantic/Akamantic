@@ -1,4 +1,4 @@
-### こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！！☆*: .｡. o(≧▽≦)o .｡.:*☆💕💕
+<h2 align="center">                              💕 こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！💕</h2>
 <div>
     
 <div><img align="right" height="160"  src="https://github-stats.liuli.lol/api?username=xlzy520&show_icons=true&icon_color=fb7299&text_color=fb7299&bg_color=ffffff&hide_title=true" /></div>
@@ -31,4 +31,5 @@
   </div>
   
 ![](https://raw.githubusercontent.com/xlzy520/xlzy520/main/assets/github-contribution-grid-snake.svg)
+
 
