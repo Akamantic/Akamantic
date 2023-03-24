@@ -19,7 +19,7 @@
 - 👻 NBA、FIFA、Lebron James、Messi
 - 🤩バスケットボール、スキール
   </div>
-    <img aligin="left" src="https://github.com/Akamantic/akanman/blob/main/0.gif" />
+    <img aligin="left" width="300" height="200" src="https://github.com/Akamantic/akanman/blob/main/0.gif" />
   
 ![](https://raw.githubusercontent.com/xlzy520/xlzy520/main/assets/github-contribution-grid-snake.svg)
 
