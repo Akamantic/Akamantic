@@ -24,3 +24,12 @@
   
 ![](https://raw.githubusercontent.com/Akamantic/Akamantic/main/assets/github-contribution-grid-snake.svg)
 
+<div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/channel/UC-J4iBozS9IDOwce2gnnN0g"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/236520843"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+  </div>
