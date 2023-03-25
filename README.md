@@ -1,4 +1,7 @@
-<h2 align="center">                              💕 こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！💕</h2>
+<text align="center">                                             ![Visitor Count](https://profile-counter.glitch.me/Akamantic/count.svg)</text>
+<h3 align="left">💕 こんにちは！🙌はじめまして、エレンと申します😊よろしくお願いします！</h3>
+
+
 <img align="right" height="160"  src="https://github-stats.liuli.lol/api?username=xlzy520&show_icons=true&icon_color=fb7299&text_color=fb7299&bg_color=ffffff&hide_title=true" />
 
 
@@ -20,5 +23,4 @@
     <img aligin="left" width="300" height="200" src="https://github.com/Akamantic/akanman/blob/main/0.gif" />
   
 ![](https://raw.githubusercontent.com/Akamantic/Akamantic/main/assets/github-contribution-grid-snake.svg)
-
 
